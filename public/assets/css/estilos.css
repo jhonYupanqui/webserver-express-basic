@@ -1,0 +1,14 @@
+ footer{
+   position: fixed;
+   bottom: 0px;
+ }
+ .detalles_slider {
+   width: 100%;
+   height: 350px;
+ }
+ .detalles_slider img{
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+ }
